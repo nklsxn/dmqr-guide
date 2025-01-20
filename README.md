@@ -13,6 +13,11 @@ Clone this repository to your local machine, then open the notebooks using [jupy
 These notebooks form part of the documentation for the library [MQR](https://nklsxn.github.io/mqr/latest/).
 For instructions on how to install MQR and further details about its features, see the MQR docs.
 
+The notebooks in the `master` branch contain outputs, so that they can be viewed
+as previews on github without downloading and running them.
+On branch `develop`, the notebooks are always stored without outputs.
+Changes are made on `develop`, merged to `master`, then run to update outputs.
+
 License
 -------
 These notebooks are provided under the GNU General Public License v3.0.
